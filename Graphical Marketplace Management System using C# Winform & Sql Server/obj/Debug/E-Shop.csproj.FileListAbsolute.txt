@@ -1,0 +1,82 @@
+C:\Users\user\Downloads\E-Shop-master\E-Shop-master\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\E-Shop\E-Shop\bin\Debug\E-Shop.exe.config
+D:\E-Shop\E-Shop\bin\Debug\E-Shop.exe
+D:\E-Shop\E-Shop\bin\Debug\E-Shop.pdb
+D:\E-Shop\E-Shop\bin\Debug\Guna.UI2.dll
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.CustomerForm.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.CustomerRegistration.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.EmployeeForm.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.LoginForm.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.OwnerForm.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.Properties.Resources.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.customerManagement.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.customerSetting.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.employeeSetting.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerDashboard.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerFinance.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerManagement.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerSettings.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.Ownership.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.productManagement.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.productRestock.resources
+D:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.Shopping.resources
+D:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+D:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+D:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+D:\E-Shop\E-Shop\obj\Debug\E-Shop.exe
+D:\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\bin\Debug\E-Shop.exe.config
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\bin\Debug\E-Shop.exe
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\bin\Debug\E-Shop.pdb
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\bin\Debug\Guna.UI2.dll
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.CustomerForm.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.CustomerRegistration.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.EmployeeForm.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.LoginForm.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.OwnerForm.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.Properties.Resources.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.customerManagement.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.customerSetting.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.employeeSetting.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerDashboard.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerFinance.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerManagement.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerSettings.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.Ownership.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.productManagement.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.productRestock.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.Shopping.resources
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E-Shop.exe
+D:\Z.ONLY PROJECT\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+E:\E-Shop\E-Shop\bin\Debug\E-Shop.exe.config
+E:\E-Shop\E-Shop\bin\Debug\E-Shop.exe
+E:\E-Shop\E-Shop\bin\Debug\E-Shop.pdb
+E:\E-Shop\E-Shop\bin\Debug\Guna.UI2.dll
+E:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.CustomerForm.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.CustomerRegistration.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.Forms.EmployeeForm.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.LoginForm.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.OwnerForm.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.Properties.Resources.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.customerManagement.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.customerSetting.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.employeeSetting.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerDashboard.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerFinance.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerManagement.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.ownerSettings.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.Ownership.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.productManagement.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.productRestock.resources
+E:\E-Shop\E-Shop\obj\Debug\E_Shop.User_Controls.Shopping.resources
+E:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+E:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+E:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+E:\E-Shop\E-Shop\obj\Debug\E-Shop.exe
+E:\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
